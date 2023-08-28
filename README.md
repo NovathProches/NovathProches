@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NovathProches
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me novathproches0@gmail.com
 
