@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @NovathProches
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me novathproches0@gmail.com
+Hey, I'm Nova
 
-<!---
-NovathProches/NovathProches is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Passionate about Technology, and Building solutions that matter.
+
+🎓 Engineering Student @ DIT
+
+💻 Exploring the worlds of AI, IoT, and Software Development
+
+⚙️ Always learning, and pushing boundaries
+
+🧠 Tech Stack: Python • PostgreSQL • Django REST Framework (DRF) • ESP8266 • TensorFlow
+
+🌐  Email: novathproches0@gmail.com
